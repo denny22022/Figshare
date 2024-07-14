@@ -1,0 +1,2 @@
+# Figshare
+citable,shareable,discoverable
